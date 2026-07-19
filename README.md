@@ -2,7 +2,7 @@
 
 **Turning 3.4M grocery orders into category, basket, and loyalty insights.**
 
-This project analyzes the [Instacart Market Basket dataset](https://www.instacart.com/datasets/grocery-shopping-2017) — 3.4M+ orders from 206K customers — to answer the kind of questions a category insights or shopper analytics team asks every day: *When do people shop? What's in the basket? Which categories drive loyalty, and which ones just get people in the door?* A dedicated deep-dive on the **dairy and cheese** category is included, given its direct relevance to CPG category management.
+This project analyzes the [Instacart Market Basket dataset](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset) — 3.4M+ orders from 206K customers — to answer the kind of questions a category insights or shopper analytics team asks every day: *When do people shop? What's in the basket? Which categories drive loyalty, and which ones just get people in the door?* A dedicated deep-dive on the **dairy and cheese** category is included, given its direct relevance to CPG category management.
 
 ## Why this project
 

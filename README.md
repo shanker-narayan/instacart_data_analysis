@@ -2,11 +2,8 @@
 
 **Turning 3.4M grocery orders into category, basket, and loyalty insights.**
 
-This project analyzes the [Instacart Market Basket dataset](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset) — 3.4M+ orders from 206K customers — to answer the kind of questions a category insights or shopper analytics team asks every day: *When do people shop? What's in the basket? Which categories drive loyalty, and which ones just get people in the door?* A dedicated deep-dive on the **dairy and cheese** category is included, given its direct relevance to CPG category management.
+This project analyzes the [Instacart Market Basket dataset](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset) — 3.4M+ orders from 206K customers — to answer the following questions: *When do people shop? What's in the basket? Which categories drive loyalty, and which ones just get people in the door?* I've also included a dedicated section on the **dairy and cheese** category, given its relevance to this role.
 
-## Why this project
-
-I built this to demonstrate the analytical skillset a Category/Shopper Insights role requires: turning raw transactional data into **clear, decision-ready recommendations** — the same workflow used to translate syndicated (Circana/NielsenIQ-style) and retail data into selling stories for Sales, Category Management, and Marketing.
 
 - **Tools:** Python (pandas, NumPy), seaborn/matplotlib for visualization, Jupyter for exploratory analysis
 - **Approach:** merge, segment, and aggregate transaction-level data → surface trends → translate into business recommendations
@@ -44,7 +41,7 @@ Across 206,209 customers and 3.4M orders, shoppers place an average of **16.6 or
   <img src="images/department_share_of_items.png" width="70%" />
 </p>
 
-**Produce (29.2%)** and **Dairy & Eggs (16.7%)** dominate basket share — together accounting for nearly half of all items ordered, well ahead of snacks and beverages. This underscores how central the dairy case is to basket value and trip frequency.
+**Produce (29.2%)** and **Dairy & Eggs (16.7%)** dominate basket share — together accounting for nearly half of all items ordered, well ahead of snacks and beverages.
 
 ---
 
@@ -54,7 +51,7 @@ Across 206,209 customers and 3.4M orders, shoppers place an average of **16.6 or
   <img src="images/reorder_rate_by_department.png" width="70%" />
 </p>
 
-**Dairy & Eggs has the highest reorder rate of any department (~67%)**, ahead of beverages and produce — meaning dairy isn't just high-volume, it's the category customers come back to on autopilot. At the aisle level, **milk (78%)**, **eggs (71%)**, and **yogurt (69%)** rank among the very top reorder aisles across the entire dataset.
+**Dairy & Eggs has the highest reorder rate of any department (~67%)**, indicating that it's a driver for customer loyalty. At the aisle level, **milk (78%)**, **eggs (71%)**, and **yogurt (69%)** rank among the very top reorder aisles across the entire dataset.
 
 ### New vs. Loyal Shopper Behavior
 
@@ -70,7 +67,7 @@ Comparing early orders (a customer's first 3) against later orders (10+) reveals
 
 ## 4. Dairy & Cheese Category Deep-Dive
 
-Given the relevance to dairy/cheese category management, I ran an additional focused cut on the cheese aisles:
+Given the relevance to this role, I ran an additional focused cut on the cheese aisles:
 
 | Metric | Value |
 |---|---|
@@ -81,7 +78,7 @@ Given the relevance to dairy/cheese category management, I ran an additional foc
 | **Packaged cheese** reorder rate | **58.5%** |
 | **Specialty cheese** reorder rate | **48.9%** |
 
-**Reading the gap:** Packaged (everyday) cheese behaves like a staple — high, steady repeat-buy behavior similar to milk and yogurt. Specialty cheese has a meaningfully lower reorder rate, consistent with more occasion-driven, exploratory purchasing (entertaining, recipes, trial) rather than routine restock. This suggests different playbooks per segment: **everyday cheese** should be merchandised and promoted around routine replenishment (bundle with milk/yogurt staple deals), while **specialty cheese** likely benefits more from trial-driving tactics — sampling, recipe-based marketing, and premium/occasion positioning — to convert one-time buyers into repeat purchasers.
+**Reading the gap:** Packaged (everyday) cheese behaves like a staple — high, steady repeat-buy behavior similar to milk and yogurt. Specialty cheese has a lower reorder rate, consistent with more occasion-driven purchasing (entertaining, recipes, trial) rather than routine restock. This suggests different approaches per segment: **everyday cheese** should be merchandised and promoted around routine replenishment (bundle with milk/yogurt staple deals), while **specialty cheese** likely benefits more from trial-driving tactics — sampling, recipe-based marketing, and premium/occasion positioning — to convert one-time buyers into repeat purchasers.
 
 ---
 

@@ -77,7 +77,7 @@ I ran an additional focused cut on the cheese aisles:
 | **Packaged cheese** reorder rate | **58.5%** |
 | **Specialty cheese** reorder rate | **48.9%** |
 
-**Reading the gap:** Packaged (everyday) cheese behaves like a staple — high, steady repeat-buy behavior similar to milk and yogurt. Specialty cheese has a lower reorder rate, consistent with more occasion-driven purchasing (entertaining, recipes, trial) rather than routine restock. This suggests different approaches per segment: **everyday cheese** should be merchandised and promoted around routine replenishment (bundle with milk/yogurt staple deals), while **specialty cheese** likely benefits more from trial-driving tactics — sampling, recipe-based marketing, and premium/occasion positioning — to convert one-time buyers into repeat purchasers.
+**Reading the gap:** Packaged (everyday) cheese behaves like a staple — high, steady repeat-buy behavior similar to milk and yogurt. Specialty cheese has a lower reorder rate, consistent with more occasion-driven purchasing (entertaining, recipes, trial) rather than routine restock. This suggests different approaches per segment: **everyday cheese** should be merchandised and promoted around routine purchases (bundle with milk/yogurt staple deals), while **specialty cheese** likely benefits more from trial-driving tactics — sampling, recipe-based marketing, and premium/occasion positioning — to convert one-time buyers into repeat purchasers.
 
 ---
 

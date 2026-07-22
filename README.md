@@ -2,8 +2,7 @@
 
 **Turning 3.4M grocery orders into category, basket, and loyalty insights.**
 
-This project analyzes the [Instacart Market Basket dataset](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset) — 3.4M+ orders from 206K customers — to answer the following questions: *When do people shop? What's in the basket? Which categories drive loyalty, and which ones just get people in the door?* I've also included a dedicated section on the **dairy and cheese** category, given its relevance to this role.
-
+This project analyzes the [Instacart Market Basket dataset](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset) — 3.4M+ orders from 206K customers — to answer the following questions: *When do people shop? What's in the basket? Which categories drive loyalty, and which ones just get people in the door?* 
 
 - **Tools:** Python (pandas, NumPy), seaborn/matplotlib for visualization, Jupyter for exploratory analysis
 - **Approach:** merge, segment, and aggregate transaction-level data → surface trends → translate into business recommendations
@@ -67,7 +66,7 @@ Comparing early orders (a customer's first 3) against later orders (10+) reveals
 
 ## 4. Dairy & Cheese Category Deep-Dive
 
-Given the relevance to this role, I ran an additional focused cut on the cheese aisles:
+I ran an additional focused cut on the cheese aisles:
 
 | Metric | Value |
 |---|---|

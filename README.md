@@ -60,7 +60,7 @@ Comparing early orders (a customer's first 3) against later orders (10+) reveals
 |---|---|
 | Fresh fruit, milk, yogurt, baby food/formula | Frozen meals, ice cream, frozen produce, soft drinks |
 
-**Business implication:** staples (milk, yogurt, fresh produce) are what convert new users into repeat, loyal shoppers — the retention engine. Frozen/convenience items skew toward new-user acquisition but don't sustain loyalty. This maps directly to a promotional strategy: **use frozen/quick-item deals to welcome new shoppers, and staple-based offers (dairy, produce) to drive retention.**
+**Business implication:** staples (milk, yogurt, fresh produce) are what convert new users into repeat, loyal shoppers. Frozen/convenience items skew toward new-user acquisition but don't sustain loyalty. This maps directly to a promotional strategy: **use frozen/quick-item deals to welcome new shoppers, and staple-based offers (dairy, produce) to drive retention.**
 
 ---
 
